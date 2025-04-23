@@ -1,41 +1,40 @@
-# 👋 Hi there, I'm Johan David!  
+# 👋 ¡Hola! Soy Johan David  
 
-👨‍💻 **𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 𝙎𝙩𝙪𝙙𝙚𝙣𝙩** 📚  
-💡 **<𝙅𝙖𝙫𝙖 𝙎𝙚𝙣𝙞𝙤𝙧 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝙎𝙤𝙤𝙣>** 🚀  
-
----
-
-### 🌟 **About me:**
-
-- 🔧 Passionate about solving **complex problems** through **code**.
-- 🌍 Exploring the world of **Full Stack Development**.
-- 🎯 Focused on building scalable and efficient solutions.
-- 🚴‍♂️ In my free time, I enjoy cycling, learning new tech, and exploring nature.
+👨‍💻 **𝙀𝙨𝙩𝙪𝙙𝙞𝙖𝙣𝙩𝙚 𝙙𝙚 𝙄𝙣𝙜𝙚𝙣𝙞𝙚𝙧í𝙖 𝙙𝙚 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚** 📚  
+💡 **<𝙋𝙧𝙤𝙣𝙩𝙤 𝘿𝙚𝙨𝙖𝙧𝙧𝙤𝙡𝙡𝙖𝙙𝙤𝙧 𝙎𝙚𝙣𝙞𝙤𝙧 𝙅𝙖𝙫𝙖>** 🚀  
 
 ---
 
-### 🛠️ **My Toolbox:**
+## 🌟 **Sobre mí:**
 
-- **Languages**: Java ☕ | JavaScript 💻   
+- 🔧 Apasionado por resolver **problemas complejos** mediante **código**.  
+- 🌍 Explorando el mundo del **desarrollo Full Stack**.  
+- 🎯 Enfocado en construir soluciones escalables y eficientes.  
+- 🚴‍♂️ En mi tiempo libre, disfruto del ciclismo, aprender nueva tecnología y explorar la naturaleza.  
+
+---
+
+## 🛠️ **Mi caja de herramientas:**
+
+- **Lenguajes**: Java ☕ | JavaScript 💻  
 - **Frameworks**: Spring Boot 🌱  
-- **Databases**: MySQL 🗄️ | MongoDB 🍃  
-- **Other Tools**: Git 🛠️ | Visual Studio Code 📘
-  
----
-
-### 🎯 **Goals:**
-
-- 💼 Land a role as a **Senior Java Developer** soon.
-- 🌱 Continuously grow my skills in **backend development**.
-- 🚀 Contribute to meaningful **open-source projects**.
+- **Bases de datos**: MySQL 🗄️ | MongoDB 🍃  
+- **Otras herramientas**: Git 🛠️ | Visual Studio Code 📘  
 
 ---
 
-✨ Let's **build amazing things together**! 🚀
+## 🎯 **Metas:**
 
-<h2 align="left">I code with</h2>
+- 💼 Conseguir pronto un rol como **Desarrollador Java Senior**.  
+- 🌱 Seguir creciendo en habilidades de **desarrollo backend**.  
+- 🚀 Contribuir a **proyectos de código abierto** con impacto.  
 
-###
+---
+
+✨ ¡Vamos a **construir cosas increíbles juntos**! 🚀
+
+## Yo programo con
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
