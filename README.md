@@ -16,7 +16,7 @@
 
 ## 🛠️ **Mi caja de herramientas:**
 
-- **Lenguajes**: Java ☕ | JavaScript 💻  
+- **Lenguajes**: Java ☕ | Python 💻  
 - **Frameworks**: Spring Boot 🌱  
 - **Bases de datos**: MySQL 🗄️ | MongoDB 🍃  
 - **Otras herramientas**: Git 🛠️ | Visual Studio Code 📘  
