@@ -14,15 +14,6 @@
 
 ---
 
-## 🛠️ **Mi caja de herramientas:**
-
-- **Lenguajes**: Java ☕ | Python 💻  
-- **Frameworks**: Spring Boot 🌱  
-- **Bases de datos**: MySQL 🗄️ | MongoDB 🍃  
-- **Otras herramientas**: Git 🛠️ | Visual Studio Code 📘  
-
----
-
 ## 🎯 **Metas:**
 
 - 🌱 Seguir creciendo en habilidades de **desarrollo backend**.  
