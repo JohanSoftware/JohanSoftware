@@ -33,75 +33,52 @@
 ✨ ¡Vamos a **construir cosas increíbles juntos**! 🚀
 
 ## Yo programo con
-<style>
-  .tech-table {
-    width: 100%;
-    max-width: 600px;
-    margin: 0 auto;
-    border-collapse: separate;
-    border-spacing: 15px 20px;
-    text-align: center;
-    font-family: Arial, sans-serif;
-  }
-  .tech-table th {
-    font-size: 1.3rem;
-    padding-bottom: 10px;
-    color: #333;
-  }
-  .tech-table td img {
-    height: 40px;
-    vertical-align: middle;
-  }
-  .tech-table td {
-    padding: 5px 10px;
-  }
-</style>
 
-<table class="tech-table">
+<table>
   <tr>
-    <th>👨‍💻 Frontend</th>
-    <th>📚 Frameworks & Librerías</th>
-    <th>🧠 Lenguajes</th>
+    <th align="left">👨‍💻 Frontend</th>
+    <th align="left">📚 Frameworks & Librerías</th>
+    <th align="left">🧠 Lenguajes</th>
   </tr>
   <tr>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="30" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="30" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angularjs" width="30" />
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" alt="junit logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="30" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" alt="junit" width="30" />
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="30" />
     </td>
   </tr>
-
   <tr>
-    <th>🗄️ Bases de Datos</th>
-    <th>🔧 Herramientas</th>
-    <th>🖥️ Editores</th>
+    <th align="left">🗄️ Bases de Datos</th>
+    <th align="left">🔧 Herramientas</th>
+    <th align="left">🖥️ Editores</th>
   </tr>
   <tr>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="30" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" />
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github logo" />
-      <img src="https://raw.githubusercontent.com/postmanlabs/logos/main/postman-icon.svg" alt="postman logo" style="height:40px; vertical-align:middle;" />
-      <img src="https://raw.githubusercontent.com/swagger-api/swagger-ui/master/docs/images/favicon-32x32.png" alt="swagger logo" style="height:40px; vertical-align:middle;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="30" />&nbsp;
+      <img src="https://raw.githubusercontent.com/postmanlabs/logos/main/postman-icon.svg" alt="postman" width="30" />&nbsp;
+      <img src="https://raw.githubusercontent.com/swagger-api/swagger-ui/master/docs/images/favicon-32x32.png" alt="swagger" width="30" />
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="eclipse logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="30" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="eclipse" width="30" />
     </td>
   </tr>
 </table>
+
 
 
 
