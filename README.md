@@ -33,64 +33,77 @@
 ✨ ¡Vamos a **construir cosas increíbles juntos**! 🚀
 
 ## Yo programo con
+<style>
+  .tech-table {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    border-collapse: separate;
+    border-spacing: 15px 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  .tech-table th {
+    font-size: 1.3rem;
+    padding-bottom: 10px;
+    color: #333;
+  }
+  .tech-table td img {
+    height: 40px;
+    vertical-align: middle;
+  }
+  .tech-table td {
+    padding: 5px 10px;
+  }
+</style>
+
+<table class="tech-table">
+  <tr>
+    <th>👨‍💻 Frontend</th>
+    <th>📚 Frameworks & Librerías</th>
+    <th>🧠 Lenguajes</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular logo" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" alt="junit logo" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java logo" />
+    </td>
+  </tr>
+
+  <tr>
+    <th>🗄️ Bases de Datos</th>
+    <th>🔧 Herramientas</th>
+    <th>🖥️ Editores</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb logo" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github logo" />
+      <img src="https://raw.githubusercontent.com/postmanlabs/logos/main/postman-icon.svg" alt="postman logo" style="height:40px; vertical-align:middle;" />
+      <img src="https://raw.githubusercontent.com/swagger-api/swagger-ui/master/docs/images/favicon-32x32.png" alt="swagger logo" style="height:40px; vertical-align:middle;" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="eclipse logo" />
+    </td>
+  </tr>
+</table>
 
 
-<div align="center">
-  <h3>👨‍💻 Frontend</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
-  
-  <br /><br />
-  
-  <h3>📚 Frameworks & Librerías</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="40" alt="junit logo" />
-  
-  <br /><br />
-  
-  <h3>🧠 Lenguajes</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-
-  <br /><br />
-
-  <h3>🗄️ Bases de Datos</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-
-  <br /><br />
-
-  <h3>🔧 Herramientas</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo" />
-  <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-5ti2o7l1.png" height="40" alt="swagger logo" />
-
-  <br /><br />
-
-  <h3>🖥️ Editores</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="eclipse logo" />
-
-  <br /><br />
-
-  <h3>📚 Cursos & Formación</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/udemy/udemy-original.svg" height="40" alt="udemy logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coursera/coursera-original.svg" height="40" alt="coursera logo" />
-</div>
 
 
 
