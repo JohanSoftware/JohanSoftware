@@ -25,7 +25,6 @@
 
 ## 🎯 **Metas:**
 
-- 💼 Conseguir pronto un rol como **Desarrollador Java Senior**.  
 - 🌱 Seguir creciendo en habilidades de **desarrollo backend**.  
 - 🚀 Contribuir a **proyectos de código abierto** con impacto.  
 
