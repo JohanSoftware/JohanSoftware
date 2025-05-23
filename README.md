@@ -29,6 +29,13 @@
 
 ✨ ¡Vamos a **construir cosas increíbles juntos**! 🚀
 
+---
+
+## 📊 Estadísticas de mi GitHub
+
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=JohanSoftware&show_icons=true&theme=github_dark&locale=es)
+
+
 
 
 
