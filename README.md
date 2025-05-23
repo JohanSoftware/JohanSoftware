@@ -32,9 +32,9 @@
 ---
 
 ## 📊 Estadísticas de mi GitHub  | ## 🌟 Mis lenguajes mas usados
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanSoftware&layout=compact&theme=github_dark&locale=es)
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=JohanSoftware&show_icons=true&theme=github_dark&locale=es)
+
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=JohanSoftware&show_icons=true&theme=github_dark&locale=es) ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanSoftware&layout=compact&theme=github_dark&locale=es)
 
 ---
 
