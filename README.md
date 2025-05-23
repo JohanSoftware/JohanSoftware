@@ -30,7 +30,7 @@
 ✨ ¡Vamos a **construir cosas increíbles juntos**! 🚀
 
 ---
-## 📊 Estadísticas de mi GitHub &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🌟 Mis lenguajes más usados
+<h2 align="center">📊 Estadísticas de mi GitHub</h2> <h2 align="center">🌟 Mis lenguajes más usados</h2>
 
 <table align="center">
   <tr>
@@ -43,9 +43,12 @@
   </tr>
 </table>
 
----
+<h2 align="center">🐍 Snake de contribuciones</h2>
 
-![snake gif](https://github.com/JohanSoftware/JohanSoftware/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/JohanSoftware/JohanSoftware/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 
 
