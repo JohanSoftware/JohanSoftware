@@ -31,10 +31,12 @@
 
 ---
 <table align="center">
-
+  <tr>
     <td align="center"><h2>📊 Estadísticas de mi GitHub</h2></td>
     <td width="50"></td>
     <td align="center"><h2>🌟 Mis lenguajes más usados</h2></td>
+  </tr
+
 
   <tr>
     <td align="center">
