@@ -30,16 +30,23 @@
 ✨ ¡Vamos a **construir cosas increíbles juntos**! 🚀
 
 ---
+## 📊 Estadísticas de mi GitHub &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🌟 Mis lenguajes más usados
 
-## 📊 Estadísticas de mi GitHub  | ## 🌟 Mis lenguajes mas usados
-
-
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=JohanSoftware&show_icons=true&theme=github_dark&locale=es) ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanSoftware&layout=compact&theme=github_dark&locale=es)
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=JohanSoftware&show_icons=true&theme=github_dark&locale=es" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanSoftware&layout=compact&theme=github_dark&locale=es" width="400"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
+![snake gif](https://github.com/JohanSoftware/JohanSoftware/blob/output/github-contribution-grid-snake.svg)
 
-![snake gif](https://github.com/JohanSoftware/blob/output/github-contribution-grid-snake.svg)
 
 
 
