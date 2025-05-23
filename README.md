@@ -34,17 +34,19 @@
   <tr>
     <td align="center"><h2>📊 Estadísticas de mi GitHub</h2></td>
     <td width="50"></td>
-    
-  </tr
+  </tr>
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=JohanSoftware&show_icons=true&theme=github_dark&locale=es" width="400"/>
     </td>
+  </tr>
+  table>
     <table align="center">
-    <tr>
+  <tr>
     <td align="center"><h2>🌟 Mis lenguajes más usados</h2></td>
     <td width="50"></td>
-    </tr>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanSoftware&layout=compact&theme=github_dark&locale=es" width="400"/>
        <table align="center">
