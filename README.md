@@ -39,7 +39,7 @@
 ---
 
 
-![snake gif](https://github.com/JohanSoftware/JohanSoftware/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/JohanSoftware/blob/output/github-contribution-grid-snake.svg)
 
 
 
