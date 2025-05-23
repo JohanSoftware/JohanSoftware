@@ -46,10 +46,6 @@
 
 
 ---
-<h2 align="center">🐍 Snake de contribuciones</h2>
-<p align="center">
-  <img src="https://github.com/JohanSoftware/JohanSoftware/raw/output/github-contribution-grid-snake.svg" />
-</p>
 
 
 
