@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Johan David  
 
 👨‍💻 Estudiante de Ingenieria de Software 📚  
-💡 </Pronto Desarrollador Senior Java> 🚀  
+💡 </Desarrollador Senior Java> 🚀  
 
 ---
 
